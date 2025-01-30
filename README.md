@@ -26,6 +26,6 @@ Interessado em aprender Cypress
 
 📫 Contato
 
-💼 LinkedIn: in/wanderson-batista-037236298
+💼 LinkedIn in/wanderson-batista-037236298
 
 📧 Email: wandersonbatista_costa@hotmail.com
